@@ -74,7 +74,7 @@ This data is a modified version of the public Instacart dataset.
 - [Full Project Report (Excel)](https://docs.google.com/spreadsheets/d/1V-dHAOUHajR7Mj9t3UW4kzp4ZQCsM4gv/edit?usp=drive_link&ouid=106802770909632844336&rtpof=true&sd=true)
 - [Full Project Report (PDF)](https://drive.google.com/file/d/10_8QXWiaUlg6V7cpLzXc-KkBJzeJRJmZ/view?usp=sharing)
 - [Visualizations-ZoomIn-Summary (PDF)](https://drive.google.com/file/d/1zcHUFhzvNOkXwYm2ZSzYW98jQIcLU4qW/view?usp=drive_link)
-- [Portfolio](https://drive.google.com/file/d/1SwVTvJQ05PlFbTu70twsX9r4Buzqthqt/view?usp=drive_link) 
+- [Portfolio](https://drive.google.com/file/d/1OXKlAvMSNDoPiZ3GYA-mggL09ffVqabh/view?usp=sharing)
 
 ---
 
